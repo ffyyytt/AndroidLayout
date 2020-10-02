@@ -1,0 +1,4 @@
+EditText
+TextView:abc
+Button:btn
+TextView:xyz
